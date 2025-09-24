@@ -10,7 +10,7 @@ Pushed: You want to share the changes with others
 
 Useful git commands 
 ---------------------------------
-git states - Provides useful information
+git status - Provides useful information
 git add - Moves one or more files from unstaged to staged
 git commit - Commits any staged files 
 git push - Uploads commited files to GitHub
