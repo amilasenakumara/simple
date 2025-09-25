@@ -15,7 +15,7 @@ git add - Moves one or more files from unstaged to staged
 git commit - Commits any staged files 
 git push - Uploads commited files to GitHub
 
-What happens when you make a changes
+What happens when you make a changes !!!
 -------------------------------------
 File is automatically Unstaged
 Do a git add to stage it
