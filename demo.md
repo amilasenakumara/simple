@@ -1,4 +1,4 @@
-Testing to see if git is installed
+!Testing to see if git is installed
 	git --version
 	
 When you use stages
@@ -27,5 +27,5 @@ Note that although I will show you how to do this for one file,you can use any o
 
 Testing Pull
 ----------------------------------
-Add a fina line here 
+Add a fina line here !
 
